@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **Flutter | Firebase**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ISHANKA-git/)
-
+- 👨‍💻 All of my projects are available at **GitHub**
+  
 - 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **ishankarusith123@gmail.com**
