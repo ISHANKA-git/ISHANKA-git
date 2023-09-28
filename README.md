@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishanka Rusith (IZAa)</h1>
+<h1 align="center">Hi Everyone 👋, I'm Ishanka Rusith (IZAa)</h1>
 <h3 align="center">I'm an Enthusiastic Undergraduate Student passionate about DevOps Engineering.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
