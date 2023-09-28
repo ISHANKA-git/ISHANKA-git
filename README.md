@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
-- ????? I'm currently pursuing my undergraduate degree in Information System at [NSBM Green University](https://www.nsbm.ac.lk/)
+🧑‍🎓 I'm currently pursuing my undergraduate degree in Information System at [NSBM Green University](https://www.nsbm.ac.lk/)
 
-- ?? How to reach me **ishankarusith123@gmail.com**
+💬 How to reach me **ishankarusith123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
