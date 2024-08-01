@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ChitChat**
 
-- 🌱 I’m currently learning **Flutter | Firebase**
+- 🌱 I’m currently learning **Flutter | MERN STACK**
 
 - 👨‍💻 All of my projects are available at **GitHub**
 
