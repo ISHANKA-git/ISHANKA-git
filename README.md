@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **LeetCode**
 
-- 🌱 I’m currently learning **React Native | MERN Stack**
+- 🌱 I’m currently learning **MERN Stack | AI & ML**
 
 - 👨‍💻 All of my projects are available at **GitHub**
 
